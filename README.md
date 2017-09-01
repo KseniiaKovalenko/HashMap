@@ -6,5 +6,5 @@ Implementation of the Hash Map algorithm with open addressing, for keys of type 
 
 ## Sources
 
-*src - Java sources
-*test/ee/ - unit-tests with JUnit
+* src - Java sources
+* test/ee/ - unit-tests with JUnit
